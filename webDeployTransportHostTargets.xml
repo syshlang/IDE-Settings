@@ -1,0 +1,68 @@
+<application>
+  <component name="WebDeploymentTransportHostTargets">
+    <option name="stateHostTargets">
+      <list>
+        <WebDeploymentTransportHostTarget>
+          <option name="hostId" value="d1463b5c-4cfc-47fa-a3b8-be74300f88c7" />
+          <option name="target">
+            <TransportTarget>
+              <option name="id" value="5ab10bd4-fac3-4b23-878b-68863e78676c" />
+              <id>5ab10bd4-fac3-4b23-878b-68863e78676c</id>
+            </TransportTarget>
+          </option>
+          <option name="targetPath" value="" />
+        </WebDeploymentTransportHostTarget>
+        <WebDeploymentTransportHostTarget>
+          <option name="hostId" value="d1463b5c-4cfc-47fa-a3b8-be74300f88c7" />
+          <option name="target">
+            <TransportTarget>
+              <option name="id" value="4987b97b-5090-4a29-8eee-9c2c93741015" />
+              <id>4987b97b-5090-4a29-8eee-9c2c93741015</id>
+            </TransportTarget>
+          </option>
+          <option name="targetPath" value="/" />
+        </WebDeploymentTransportHostTarget>
+        <WebDeploymentTransportHostTarget>
+          <option name="hostId" value="bdccfaa0-d93d-4742-8c6e-9f2c6b0d7606" />
+          <option name="target">
+            <TransportTarget>
+              <option name="id" value="5ab10bd4-fac3-4b23-878b-68863e78676c" />
+              <id>5ab10bd4-fac3-4b23-878b-68863e78676c</id>
+            </TransportTarget>
+          </option>
+          <option name="targetPath" value="" />
+        </WebDeploymentTransportHostTarget>
+        <WebDeploymentTransportHostTarget>
+          <option name="hostId" value="bdccfaa0-d93d-4742-8c6e-9f2c6b0d7606" />
+          <option name="target">
+            <TransportTarget>
+              <option name="id" value="4987b97b-5090-4a29-8eee-9c2c93741015" />
+              <id>4987b97b-5090-4a29-8eee-9c2c93741015</id>
+            </TransportTarget>
+          </option>
+          <option name="targetPath" value="/usr/app/tomcat-ebml-sunys/webapps/smscat_war" />
+        </WebDeploymentTransportHostTarget>
+        <WebDeploymentTransportHostTarget>
+          <option name="hostId" value="5311d3ff-5c1d-409d-8ad2-e832a12427c3" />
+          <option name="target">
+            <TransportTarget>
+              <option name="id" value="5ab10bd4-fac3-4b23-878b-68863e78676c" />
+              <id>5ab10bd4-fac3-4b23-878b-68863e78676c</id>
+            </TransportTarget>
+          </option>
+          <option name="targetPath" value="" />
+        </WebDeploymentTransportHostTarget>
+        <WebDeploymentTransportHostTarget>
+          <option name="hostId" value="5311d3ff-5c1d-409d-8ad2-e832a12427c3" />
+          <option name="target">
+            <TransportTarget>
+              <option name="id" value="4987b97b-5090-4a29-8eee-9c2c93741015" />
+              <id>4987b97b-5090-4a29-8eee-9c2c93741015</id>
+            </TransportTarget>
+          </option>
+          <option name="targetPath" value="" />
+        </WebDeploymentTransportHostTarget>
+      </list>
+    </option>
+  </component>
+</application>

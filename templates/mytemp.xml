@@ -1,0 +1,16 @@
+<templateSet group="mytemp">
+  <template name="sun" value="* @Description:&#10;* @Author:sunys&#10;* @Date: $date$  $time$" description="add content" toReformat="false" toShortenFQNames="true">
+    <variable name="date" expression="date()" defaultValue="" alwaysStopAt="true" />
+    <variable name="time" expression="time()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="xml" value="&lt;!--&#10;  create by  sunys  on $date$ $time$&#10;  Description:&#10;--&gt;" description="file content" toReformat="false" toShortenFQNames="true">
+    <variable name="date" expression="date()" defaultValue="" alwaysStopAt="true" />
+    <variable name="time" expression="time()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+</templateSet>

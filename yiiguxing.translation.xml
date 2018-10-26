@@ -1,0 +1,80 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="生产" />
+      <item value="product" />
+      <item value="队伍" />
+      <item value="大队" />
+      <item value="押" />
+      <item value="押运大队" />
+      <item value="组织" />
+      <item value="事业单位" />
+      <item value="单位" />
+      <item value="部门" />
+      <item value="Depart" />
+      <item value="小组" />
+      <item value="中队" />
+      <item value="机构" />
+      <item value="attendance" />
+      <item value="base" />
+      <item value="基础" />
+      <item value="参数相关异常" />
+      <item value="用户相关异常" />
+      <item value="makeup" />
+      <item value="补记" />
+      <item value="补录" />
+      <item value="跳转" />
+      <item value="明细" />
+      <item value="确定" />
+      <item value="advance" />
+      <item value="提前" />
+      <item value="下发" />
+      <item value="主题" />
+      <item value="得到" />
+      <item value="获取" />
+      <item value="框架" />
+      <item value="machinist" />
+      <item value="swagger" />
+      <item value="Period" />
+      <item value="LAST SYNC DB TIMESTAMP" />
+      <item value="deltaTime" />
+      <item value="center" />
+      <item value="memcache server" />
+      <item value="system Cookies Ip" />
+      <item value="网点信息" />
+      <item value="MA" />
+      <item value="Rotation" />
+      <item value="轮值" />
+      <item value="方式" />
+      <item value="return" />
+      <item value="Authentication Exception" />
+      <item value="get Primary Principal" />
+      <item value="security" />
+      <item value="hash Algorithm Name" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="91" />
+        <entry key="ENGLISH" value="92" />
+        <entry key="JAPANESE" value="1" />
+        <entry key="INDONESIAN" value="2" />
+        <entry key="VIETNAMESE" value="1" />
+      </map>
+    </option>
+  </component>
+  <component name="Settings">
+    <option name="baiduTranslateSettings">
+      <app-key>
+        <option name="appId" value="20180516000160365" />
+        <option name="appKeyConfigured" value="true" />
+      </app-key>
+    </option>
+    <option name="ignoreRegExp" value="" />
+    <option name="youdaoTranslateSettings">
+      <youdao-translate>
+        <option name="appId" value="3c0a10eb2a742dcd" />
+        <option name="appKeyConfigured" value="true" />
+      </youdao-translate>
+    </option>
+  </component>
+</application>

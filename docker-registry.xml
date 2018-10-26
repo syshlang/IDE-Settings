@@ -1,0 +1,9 @@
+<application>
+  <component name="DockerRegistry">
+    <DockerRegistry email="158990605@qq.com">
+      <option name="address" value="registry.hub.docker.com" />
+      <option name="name" value="sysh" />
+      <option name="username" value="sysh" />
+    </DockerRegistry>
+  </component>
+</application>

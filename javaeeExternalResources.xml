@@ -1,0 +1,6 @@
+<application>
+  <component name="ExternalResourceManagerImpl">
+    <resource url="http://ehcache.org/ehcache.xsd" location="D:/Program Files/JetBrains/Toolbox/system/extResources/39e8daee_ehcache.xsd" />
+    <resource url="http://mybatis.org/dtd/mybatis-3-mapper.dtd" location="D:/Program Files/JetBrains/Toolbox/system/extResources/b36fadae_mybatis-3-mapper.dtd" />
+  </component>
+</application>

@@ -1,0 +1,120 @@
+<application>
+  <component name="CPPToolchains" version="2">
+    <toolchains detectedVersion="5" />
+    <debuggers />
+  </component>
+  <component name="CvsApplicationLevelConfiguration">
+    <option name="PATH_TO_PASSWORD_FILE" value="$userdir/.cvspass" />
+  </component>
+  <component name="EduSettings">
+    <option name="lastTimeChecked" value="1536302248601" />
+    <option name="LAST_TIME_CHECKED" value="1536302248601" />
+  </component>
+  <component name="LJFriendListManager">
+    <setting name="username" value="syshlang" />
+    <setting name="password" value="SunYuan0822" />
+    <setting name="channelSize" value="55" />
+    <setting name="useDigestAuth" value="true" />
+  </component>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="D:/nodejs/node.exe">
+      <version-cache version="7.9.0" last-modified="1491896878000" />
+    </local-interpreter>
+  </component>
+  <component name="RecentTaskRepositories">
+    <JIRA shared="false" url="http://10.2.8.50:8080">
+      <option name="apiType" value="REST_2_0" />
+      <commitMessageFormat>{id} {summary}</commitMessageFormat>
+      <password>df9bdf98df99df9edf9fdf9c</password>
+      <option name="inCloud" value="false" />
+      <option name="jiraVersion" value="5.2.4" />
+      <option name="loginAnonymously" value="false" />
+      <option name="preferredCloseTaskState" />
+      <option name="preferredOpenTaskState" />
+      <option name="searchQuery" value="assignee = currentUser() and resolution = Unresolved order by updated" />
+      <option name="shouldFormatCommitMessage" value="false" />
+      <option name="useHttpAuthentication" value="true" />
+      <option name="useProxy" value="false" />
+      <username>sunyuansheng</username>
+    </JIRA>
+  </component>
+  <component name="RefactoringSettings">
+    <option name="RENAME_SEARCH_IN_COMMENTS_FOR_CLASS" value="false" />
+    <option name="RENAME_SEARCH_FOR_TEXT_FOR_CLASS" value="false" />
+    <option name="INTRODUCE_LOCAL_CREATE_FINALS" value="false" />
+  </component>
+  <component name="SvnApplicationSettings">
+    <option name="myCheckoutURLs">
+      <list>
+        <option value="https://10.2.8.50/svn/02-Projects/EBM-Product" />
+        <option value="https://10.2.8.50/svn/EP-Product" />
+        <option value="https://10.2.8.50/svn/ep_zs" />
+        <option value="https://10.2.8.50/svn/ep2" />
+        <option value="https://10.2.8.50/svn/ep" />
+        <option value="https://10.2.8.50/svn/ebm" />
+        <option value="https://10.2.8.50/svn/ssp" />
+      </list>
+    </option>
+    <option name="myTypedURLs">
+      <list>
+        <option value="https://10.2.8.50/svn/02-Projects/EBM-Product" />
+        <option value="https://10.2.8.50/svn/02-Projects" />
+        <option value="https://10.2.8.50/svn" />
+        <option value="https://10.2.8.50/svn/EP-Product" />
+        <option value="svn://gitee.com/osworks/AOS" />
+        <option value="https://10.2.8.50/svn/ep_zs" />
+        <option value="https://10.2.8.50/svn/ep2" />
+        <option value="https://10.2.8.50/svn/ep" />
+        <option value="https://10.2.8.50/svn/ebm" />
+        <option value="https://10.2.8.50/svn/ssp" />
+        <option value="svn://192.168.0.180" />
+        <option value="https://192.168.0.179/svn/tiancom" />
+        <option value="http://192.168.0.180" />
+      </list>
+    </option>
+    <option name="mySvnCommandLine" value="D:\Program Files\TortoiseSVN\bin\svn.exe" />
+  </component>
+  <component name="SvnBranchMapperManager">
+    <option name="myMapping">
+      <map>
+        <entry key="https://10.2.8.50/svn/EP-Product/EP_2.0/02-code/01-trunk/veinServerApp-ep">
+          <value>
+            <set>
+              <option value="E:\Workspace\ep\veinServerApp-ep" />
+            </set>
+          </value>
+        </entry>
+        <entry key="https://10.2.8.50/svn/ebm/02-code/02-branch/veinServerApp">
+          <value>
+            <set>
+              <option value="E:\Workspace\ebm\veinServerApp" />
+            </set>
+          </value>
+        </entry>
+        <entry key="https://10.2.8.50/svn/ep/02-code/pc/branch/ep">
+          <value>
+            <set>
+              <option value="E:\Workspace\ep\ep" />
+            </set>
+          </value>
+        </entry>
+        <entry key="https://10.2.8.50/svn/ep_zs/02-code/pc/tag/ep_zs(20170816)">
+          <value>
+            <set>
+              <option value="E:\Workspace\ep\ep_zs" />
+            </set>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="UnvoidMethodsComponent" method="ALL" />
+  <component name="com.seventh7.widget.iedis.config.I">
+    <pattern>*</pattern>
+  </component>
+  <component name="com.seventh7.widget.iedis.config.ServerConfigurations">
+    <servers>
+      <general label="127.0.0.1" host="127.0.0.1" port="6379" password="" timestamp="1516085253131" valueEditorName="com.seventh7.widget.iedis.d.a.c" />
+    </servers>
+  </component>
+</application>
