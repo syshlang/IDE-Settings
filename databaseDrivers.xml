@@ -22,7 +22,7 @@
     </driver>
     <driver id="azure.ms">
       <artifact name="SQL Server" use="true" />
-      <option name="auto-sync" value="false" />
+      <option name="auto-sync" value="true" />
       <option name="send-app-info" value="false" />
     </driver>
     <driver id="sqlserver.ms">
@@ -43,17 +43,15 @@
       <option name="auto-commit" value="true" />
       <option name="send-app-info" value="true" />
       <option name="schema-control" value="AUTOMATIC" />
-      <code-style-scheme-name>Default</code-style-scheme-name>
     </driver>
     <driver id="mariadb">
       <artifact name="MariaDB Connector J" use="true" />
       <option name="auto-sync" value="true" />
     </driver>
     <driver id="oracle">
-      <artifact name="Oracle" use="true" version="12.1.0.2" />
+      <artifact name="Oracle" use="true" />
       <option name="auto-sync" value="true" />
       <option name="auto-commit" value="false" />
-      <option name="send-app-info" value="true" />
     </driver>
     <driver id="postgresql">
       <artifact name="PostgreSQL" use="true" />

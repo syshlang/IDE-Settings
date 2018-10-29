@@ -1,17 +1,9 @@
 <application>
   <component name="FileTypeManager" version="17">
-    <ignoreFiles list="*$py.class;*.hprof;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc;" />
     <extensionMap>
-      <mapping ext="vsdx" type="Native" />
+      <mapping pattern="##批量获取单个页面元素" type="PLAIN_TEXT" />
       <mapping pattern=".keep" type="PLAIN_TEXT" />
-      <mapping pattern="api" type="PLAIN_TEXT" />
-      <mapping ext="dll" type="PLAIN_TEXT" />
-      <mapping ext="2018-04-02" type="PLAIN_TEXT" />
-      <mapping ext="cab" type="PLAIN_TEXT" />
-      <mapping ext="out" type="PLAIN_TEXT" />
-      <mapping ext="jasper" type="PLAIN_TEXT" />
-      <mapping ext="do" type="PLAIN_TEXT" />
-      <removed_mapping ext="dll" approved="true" type="UNKNOWN" />
+      <mapping ext="lnk" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>

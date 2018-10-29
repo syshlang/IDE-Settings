@@ -1,9 +1,25 @@
 <application>
   <component name="libraryTable">
+    <library name="jdk1.6">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://D:/Program Files/Java/jdk1.6.0_45" />
+      </SOURCES>
+      <jarDirectory url="file://D:/Program Files/Java/jdk1.6.0_45" recursive="false" type="SOURCES" />
+    </library>
+    <library name="jdk1.7">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://D:/Program Files/Java/jdk1.7.0_80" />
+      </SOURCES>
+      <jarDirectory url="file://D:/Program Files/Java/jdk1.7.0_80" recursive="false" type="SOURCES" />
+    </library>
     <library name="jsp-api">
       <CLASSES>
-        <root url="jar://D:/Program Files/apache-tomcat-7.0.82/lib/jsp-api.jar!/" />
-        <root url="jar://D:/Program Files/apache-tomcat-7.0.82/lib/servlet-api.jar!/" />
+        <root url="jar://D:/Program Files (x86)/apache-tomcat-7.0.78/lib/jsp-api.jar!/" />
+        <root url="jar://D:/Program Files (x86)/apache-tomcat-7.0.78/lib/servlet-api.jar!/" />
       </CLASSES>
       <JAVADOC />
       <SOURCES />

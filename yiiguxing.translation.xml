@@ -1,80 +1,62 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="间隔时间" />
-      <item value="间隔" />
-      <item value="生产" />
-      <item value="product" />
-      <item value="队伍" />
-      <item value="大队" />
-      <item value="押" />
-      <item value="押运大队" />
-      <item value="组织" />
-      <item value="事业单位" />
-      <item value="单位" />
-      <item value="部门" />
-      <item value="Depart" />
-      <item value="小组" />
-      <item value="中队" />
-      <item value="机构" />
-      <item value="attendance" />
-      <item value="base" />
-      <item value="基础" />
-      <item value="参数相关异常" />
-      <item value="用户相关异常" />
-      <item value="makeup" />
-      <item value="补记" />
-      <item value="补录" />
-      <item value="跳转" />
-      <item value="明细" />
-      <item value="确定" />
-      <item value="advance" />
-      <item value="提前" />
-      <item value="下发" />
-      <item value="主题" />
-      <item value="得到" />
-      <item value="获取" />
-      <item value="框架" />
-      <item value="machinist" />
-      <item value="swagger" />
-      <item value="Period" />
-      <item value="LAST SYNC DB TIMESTAMP" />
-      <item value="deltaTime" />
-      <item value="center" />
-      <item value="memcache server" />
-      <item value="system Cookies Ip" />
-      <item value="网点信息" />
-      <item value="MA" />
-      <item value="Rotation" />
-      <item value="轮值" />
-      <item value="方式" />
-      <item value="return" />
-      <item value="Authentication Exception" />
-      <item value="get Primary Principal" />
+      <item value="authc" />
+      <item value="Authentication Filter" />
+      <item value="编码" />
+      <item value="代码" />
+      <item value="代号" />
+      <item value="serialize" />
+      <item value="local Temp Swap" />
+      <item value="Unable to obtain input stream for cacheManagerConfigFile" />
+      <item value="tried to login more than 5 times in period" />
+      <item value="Retry Limit" />
+      <item value="Excessive Attempts Exception" />
+      <item value="正常" />
+      <item value="woman" />
+      <item value="女" />
+      <item value="男" />
+      <item value="hash Algorithm Name" />
+      <item value="Locked Account Exception" />
+      <item value="Incorrect Credentials Exception" />
+      <item value="首页" />
+      <item value="on Access Denied" />
+      <item value="前缀" />
+      <item value="局部会话key" />
+      <item value="dictionaey" />
+      <item value="entity" />
+      <item value="权限系统" />
+      <item value="Privilege" />
+      <item value="权限" />
+      <item value="station" />
+      <item value="TABLES" />
+      <item value="storage" />
+      <item value="layer" />
+      <item value="层" />
+      <item value="inherited" />
+      <item value="示例" />
+      <item value="修改" />
+      <item value="配置" />
+      <item value="agile" />
+      <item value="game Loop" />
+      <item value="module" />
+      <item value="async-supported" />
+      <item value="aspect" />
+      <item value="nested exception is java.lang.IllegalArgumentException: Mapped Statements collection already contains value for com.syshlang.mapper.user.UserMapper.selectByPrimaryKey" />
+      <item value="consumer" />
+      <item value="customer" />
+      <item value="custom" />
+      <item value="客户" />
+      <item value="'dependencies.dependency.version' for com.syshlang:cms-api-common:jar is missing. @ line 26, column 21" />
+      <item value="Adding dependency on module 'cms-api-common' will introduce circular dependency between modules 'cms-api-common' and 'cms-common'. Add dependency anyway?" />
+      <item value="typewrap" />
+      <item value="exclusions" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="93" />
-        <entry key="ENGLISH" value="93" />
-        <entry key="JAPANESE" value="1" />
-        <entry key="INDONESIAN" value="2" />
-        <entry key="VIETNAMESE" value="1" />
+        <entry key="CHINESE" value="34" />
+        <entry key="ENGLISH" value="35" />
       </map>
-    </option>
-  </component>
-  <component name="Settings">
-    <option name="baiduTranslateSettings">
-      <app-key>
-        <option name="appId" value="20180516000160365" />
-        <option name="appKeyConfigured" value="true" />
-      </app-key>
-    </option>
-    <option name="ignoreRegExp" value="" />
-    <option name="youdaoTranslateSettings">
-      <youdao-translate>
-        <option name="appId" value="3c0a10eb2a742dcd" />
-        <option name="appKeyConfigured" value="true" />
-      </youdao-translate>
     </option>
   </component>
 </application>

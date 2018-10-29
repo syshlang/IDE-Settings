@@ -3,64 +3,44 @@
     <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
-      <file name="E:/Workspace/ebm/mebmMysql180124/WebRoot/WEB-INF/web.xml" timestamp="1520561993271">
-        <mark key="[" line="19" column="52" />
-        <mark key="]" line="19" column="51" />
-        <mark key="^" line="19" column="51" />
-        <mark key="." line="19" column="51" />
+      <file name="/Dummy.txt" timestamp="1523368565829">
+        <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/Workspace/gitee/AOS/src/resources/aos.properties" timestamp="1520562520981" />
-      <file name="E:/Workspace/ep/veinServerApp/src/org/xbt/server/httpHandler/CdmHandler.java" timestamp="1520558506124">
-        <mark key="[" line="24" column="12" />
-        <mark key="]" line="24" column="13" />
-        <mark key="^" line="25" column="49" />
-        <mark key="." line="24" column="13" />
+      <file name="D:/Program Files/JetBrains/apps/IDEA-U/ch-0/181.4445.20.vmoptions" timestamp="1523289500985">
+        <mark key="'" line="18" column="37" />
+        <mark key="[" line="18" column="37" />
       </file>
-      <file name="E:/Workspace/ep/veinServerApp/src/org/xbt/server/util/VeinUtils.java" timestamp="1520558077498">
-        <mark key="[" line="325" column="4" />
-        <mark key="]" line="325" column="4" />
-        <mark key="." line="325" column="4" />
-        <mark key="^" line="325" column="4" />
+      <file name="E:/workspace/gitee/hexo/themes/spfk/_config.yml" timestamp="1523369627035" />
+      <file name="E:/workspace/gitee/hexo/README.md" timestamp="1523368852667">
+        <mark key="[" line="2" column="0" />
       </file>
     </filemarks>
-    <jumps />
-    <registers>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB9CiAgICAgICAgcmV0dXJuIC0xMTg7Cg==</text>
-      </register>
-      <register name="&quot;" type="4">
-        <text>)</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
-      </register>
-      <register name="w" type="4">
-        <text />
-      </register>
-      <register name=":" type="4">
-        <text>q</text>
-      </register>
-      <register name="-" type="4">
-        <text>)</text>
-      </register>
-    </registers>
+    <jumps>
+      <jump line="17" column="37" filename="D:/Program Files/JetBrains/apps/IDEA-U/ch-0/181.4445.20.vmoptions" />
+    </jumps>
+    <registers />
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
-      <history-cmd>
-        <entry>wq</entry>
-        <entry>q</entry>
-        <entry>ls</entry>
-      </history-cmd>
+      <history-search />
+      <history-cmd />
+      <history-expr />
+      <history-input />
     </history>
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
-        <text>ctrl pressed N</text>
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed S</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
-        <text>ctrl pressed M</text>
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
