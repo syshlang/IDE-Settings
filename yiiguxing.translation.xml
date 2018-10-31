@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="31" />
       <item value="authc" />
       <item value="Authentication Filter" />
       <item value="编码" />
@@ -50,11 +51,10 @@
       <item value="'dependencies.dependency.version' for com.syshlang:cms-api-common:jar is missing. @ line 26, column 21" />
       <item value="Adding dependency on module 'cms-api-common' will introduce circular dependency between modules 'cms-api-common' and 'cms-common'. Add dependency anyway?" />
       <item value="typewrap" />
-      <item value="exclusions" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="34" />
+        <entry key="CHINESE" value="36" />
         <entry key="ENGLISH" value="35" />
       </map>
     </option>
