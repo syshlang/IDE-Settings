@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Config" />
+      <item value="Configer" />
+      <item value="配置" />
+      <item value="合并" />
+      <item value="高级" />
+      <item value="升级" />
+      <item value="31" />
       <item value="authc" />
       <item value="Authentication Filter" />
       <item value="编码" />
@@ -36,7 +43,6 @@
       <item value="inherited" />
       <item value="示例" />
       <item value="修改" />
-      <item value="配置" />
       <item value="agile" />
       <item value="game Loop" />
       <item value="module" />
@@ -45,17 +51,11 @@
       <item value="nested exception is java.lang.IllegalArgumentException: Mapped Statements collection already contains value for com.syshlang.mapper.user.UserMapper.selectByPrimaryKey" />
       <item value="consumer" />
       <item value="customer" />
-      <item value="custom" />
-      <item value="客户" />
-      <item value="'dependencies.dependency.version' for com.syshlang:cms-api-common:jar is missing. @ line 26, column 21" />
-      <item value="Adding dependency on module 'cms-api-common' will introduce circular dependency between modules 'cms-api-common' and 'cms-common'. Add dependency anyway?" />
-      <item value="typewrap" />
-      <item value="exclusions" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="34" />
-        <entry key="ENGLISH" value="35" />
+        <entry key="CHINESE" value="37" />
+        <entry key="ENGLISH" value="37" />
       </map>
     </option>
   </component>
