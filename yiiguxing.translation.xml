@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="remark" />
+      <item value="说明" />
+      <item value="描述" />
+      <item value="dsc" />
+      <item value="desc" />
+      <item value="MENU POSITION" />
       <item value="Config" />
       <item value="Configer" />
       <item value="配置" />
@@ -45,17 +51,11 @@
       <item value="修改" />
       <item value="agile" />
       <item value="game Loop" />
-      <item value="module" />
-      <item value="async-supported" />
-      <item value="aspect" />
-      <item value="nested exception is java.lang.IllegalArgumentException: Mapped Statements collection already contains value for com.syshlang.mapper.user.UserMapper.selectByPrimaryKey" />
-      <item value="consumer" />
-      <item value="customer" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="37" />
-        <entry key="ENGLISH" value="37" />
+        <entry key="CHINESE" value="41" />
+        <entry key="ENGLISH" value="42" />
       </map>
     </option>
   </component>
