@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="rank" />
+      <item value="等级" />
+      <item value="参数级别" />
       <item value="remark" />
       <item value="说明" />
       <item value="描述" />
@@ -48,13 +51,10 @@
       <item value="层" />
       <item value="inherited" />
       <item value="示例" />
-      <item value="修改" />
-      <item value="agile" />
-      <item value="game Loop" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="41" />
+        <entry key="CHINESE" value="42" />
         <entry key="ENGLISH" value="42" />
       </map>
     </option>
