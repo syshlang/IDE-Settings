@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="服务" />
       <item value="平台" />
       <item value="押运智能平台" />
       <item value="押运系统" />
@@ -50,7 +51,6 @@
       <item value="Privilege" />
       <item value="权限" />
       <item value="station" />
-      <item value="TABLES" />
     </histories>
     <option name="languageScores">
       <map>
