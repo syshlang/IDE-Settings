@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="平台" />
+      <item value="押运智能平台" />
+      <item value="押运系统" />
+      <item value="押运" />
       <item value="转换工具" />
       <item value="rank" />
       <item value="等级" />
@@ -47,15 +51,11 @@
       <item value="权限" />
       <item value="station" />
       <item value="TABLES" />
-      <item value="storage" />
-      <item value="layer" />
-      <item value="层" />
-      <item value="inherited" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="43" />
-        <entry key="ENGLISH" value="43" />
+        <entry key="ENGLISH" value="44" />
       </map>
     </option>
   </component>
