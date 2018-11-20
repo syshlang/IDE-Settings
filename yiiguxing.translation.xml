@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="leave" />
+      <item value="离开" />
       <item value="失败" />
       <item value="exclusions" />
       <item value="服务" />
@@ -49,13 +51,11 @@
       <item value="局部会话key" />
       <item value="dictionaey" />
       <item value="entity" />
-      <item value="权限系统" />
-      <item value="Privilege" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="44" />
-        <entry key="ENGLISH" value="45" />
+        <entry key="CHINESE" value="45" />
+        <entry key="ENGLISH" value="46" />
       </map>
     </option>
   </component>
