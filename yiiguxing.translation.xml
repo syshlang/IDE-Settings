@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="add Default Specification Entries" />
+      <item value="add Default Implementation Entries" />
       <item value="develop" />
       <item value="开发" />
       <item value="leave" />
@@ -49,13 +51,11 @@
       <item value="Incorrect Credentials Exception" />
       <item value="首页" />
       <item value="on Access Denied" />
-      <item value="前缀" />
-      <item value="局部会话key" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="46" />
-        <entry key="ENGLISH" value="46" />
+        <entry key="CHINESE" value="47" />
+        <entry key="ENGLISH" value="48" />
       </map>
     </option>
   </component>
