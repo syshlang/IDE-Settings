@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="入门基础" />
+      <item value="基础" />
+      <item value="进阶" />
       <item value="add Default Specification Entries" />
       <item value="add Default Implementation Entries" />
       <item value="develop" />
@@ -48,14 +51,11 @@
       <item value="男" />
       <item value="hash Algorithm Name" />
       <item value="Locked Account Exception" />
-      <item value="Incorrect Credentials Exception" />
-      <item value="首页" />
-      <item value="on Access Denied" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="47" />
-        <entry key="ENGLISH" value="48" />
+        <entry key="CHINESE" value="50" />
+        <entry key="ENGLISH" value="50" />
       </map>
     </option>
   </component>
