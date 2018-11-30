@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="baby" />
+      <item value="男孩" />
       <item value="入门基础" />
       <item value="基础" />
       <item value="进阶" />
@@ -49,13 +51,11 @@
       <item value="woman" />
       <item value="女" />
       <item value="男" />
-      <item value="hash Algorithm Name" />
-      <item value="Locked Account Exception" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="50" />
-        <entry key="ENGLISH" value="50" />
+        <entry key="CHINESE" value="51" />
+        <entry key="ENGLISH" value="52" />
       </map>
     </option>
   </component>
