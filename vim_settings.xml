@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="/Dummy.txt" timestamp="1523368565829">
@@ -10,7 +10,6 @@
         <mark key="'" line="18" column="37" />
         <mark key="[" line="18" column="37" />
       </file>
-      <file name="E:/workspace/gitee/hexo/themes/spfk/_config.yml" timestamp="1523369627035" />
       <file name="E:/workspace/gitee/hexo/README.md" timestamp="1523368852667">
         <mark key="[" line="2" column="0" />
       </file>
