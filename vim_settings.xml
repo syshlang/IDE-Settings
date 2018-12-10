@@ -3,14 +3,16 @@
     <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1523368565829">
+      <file name="/Dummy.txt" timestamp="1544341338566">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/Program Files/JetBrains/apps/IDEA-U/ch-0/181.4445.20.vmoptions" timestamp="1523289500985">
         <mark key="'" line="18" column="37" />
         <mark key="[" line="18" column="37" />
       </file>
-      <file name="E:/workspace/gitee/hexo/themes/spfk/_config.yml" timestamp="1523369627035" />
+      <file name="E:/workspace/MyApplication/app/build.gradle" timestamp="1544341239292">
+        <mark key="[" line="27" column="0" />
+      </file>
       <file name="E:/workspace/gitee/hexo/README.md" timestamp="1523368852667">
         <mark key="[" line="2" column="0" />
       </file>
@@ -41,6 +43,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed N</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
