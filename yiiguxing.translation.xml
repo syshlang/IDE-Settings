@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="portrait" />
+      <item value="screen Orientation" />
       <item value="This provides a graphical representation of Gradle projects and tasks and allows execution of Gradle tasks directly within Idea. Frequently-used tasks can be added to the Favorites tab for quicker access. Output is shown in a separate panel allowing the main UI to be vertical and the output to be horizontal. This is the same UI as the UI embedded in Gradle itself. Note: you can assign keyboard shortcuts within Idea to re-execute the last gradle command and to execute gradle favorites. To do so, go to Idea's settings -&gt; Keymap and select Other. In this list find commands prefixed with &quot;Gradle: &quot;. The favorites are keyed off of the display name so it can work across projects as long as their name is the same." />
       <item value="Retention" />
       <item value="Program type already present: org.apache.commons.codec.Decoder" />
@@ -49,13 +51,11 @@
       <item value="Unable to obtain input stream for cacheManagerConfigFile" />
       <item value="tried to login more than 5 times in period" />
       <item value="Retry Limit" />
-      <item value="Excessive Attempts Exception" />
-      <item value="正常" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="54" />
-        <entry key="ENGLISH" value="54" />
+        <entry key="CHINESE" value="55" />
+        <entry key="ENGLISH" value="56" />
       </map>
     </option>
   </component>
