@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="reasonable" />
       <item value="失败" />
       <item value="Copyright (c) 2018. Lorem ipsum dolor sit amet, consectetur adipiscing elit. * Morbi non lorem porttitor neque feugiat blandit. Ut vitae ipsum eget quam lacinia accumsan. * Etiam sed turpis ac ipsum condimentum fringilla. Maecenas magna. * Proin dapibus sapien vel ante. Aliquam erat volutpat. Pellentesque sagittis ligula eget metus. * Vestibulum commodo. Ut rhoncus gravida arcu." />
       <item value="interval Millis" />
@@ -50,12 +51,11 @@
       <item value="代码" />
       <item value="代号" />
       <item value="serialize" />
-      <item value="local Temp Swap" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="59" />
-        <entry key="ENGLISH" value="59" />
+        <entry key="ENGLISH" value="60" />
         <entry key="LATIN" value="1" />
       </map>
     </option>
