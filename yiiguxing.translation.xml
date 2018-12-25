@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Data truncation: Truncated incorrect DOUBLE value" />
       <item value="Truncated incorrect DOUBLE value" />
       <item value="Data truncation: Truncated incorrect DOUBLE value:" />
       <item value="You can't specify target table 'imp' for update in FROM clause" />
@@ -50,11 +51,10 @@
       <item value="31" />
       <item value="authc" />
       <item value="Authentication Filter" />
-      <item value="编码" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="60" />
+        <entry key="CHINESE" value="61" />
         <entry key="ENGLISH" value="61" />
         <entry key="LATIN" value="1" />
       </map>
