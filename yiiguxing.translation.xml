@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="第三方平台" />
+      <item value="第三方系统" />
       <item value="You can't specify target table 'org' for update in FROM clause" />
       <item value="Data truncation: Truncated incorrect DOUBLE value" />
       <item value="Truncated incorrect DOUBLE value" />
@@ -49,13 +51,11 @@
       <item value="合并" />
       <item value="高级" />
       <item value="升级" />
-      <item value="31" />
-      <item value="authc" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="61" />
-        <entry key="ENGLISH" value="61" />
+        <entry key="ENGLISH" value="62" />
         <entry key="LATIN" value="1" />
       </map>
     </option>
