@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="标识符" />
+      <item value="sign" />
+      <item value="标识" />
+      <item value="Third Application" />
+      <item value="标志" />
       <item value="track" />
       <item value="第三方平台" />
       <item value="第三方系统" />
@@ -46,16 +51,11 @@
       <item value="dsc" />
       <item value="desc" />
       <item value="MENU POSITION" />
-      <item value="Config" />
-      <item value="Configer" />
-      <item value="配置" />
-      <item value="合并" />
-      <item value="高级" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="62" />
-        <entry key="ENGLISH" value="62" />
+        <entry key="CHINESE" value="64" />
+        <entry key="ENGLISH" value="65" />
         <entry key="LATIN" value="1" />
       </map>
     </option>
