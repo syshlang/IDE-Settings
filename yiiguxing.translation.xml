@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="common" />
       <item value="一般" />
       <item value="proj Admin" />
       <item value="admin" />
@@ -50,11 +51,10 @@
       <item value="参数级别" />
       <item value="remark" />
       <item value="说明" />
-      <item value="描述" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="66" />
+        <entry key="CHINESE" value="67" />
         <entry key="ENGLISH" value="67" />
         <entry key="DANISH" value="1" />
         <entry key="LATIN" value="1" />
