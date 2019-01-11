@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="会话已失效" />
+      <item value="invalid" />
+      <item value="失效" />
+      <item value="请检查服务是否正常" />
+      <item value="调用异常" />
       <item value="浏览" />
       <item value="common" />
       <item value="一般" />
@@ -46,16 +51,11 @@
       <item value="押运智能平台" />
       <item value="押运系统" />
       <item value="押运" />
-      <item value="转换工具" />
-      <item value="rank" />
-      <item value="等级" />
-      <item value="参数级别" />
-      <item value="remark" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="67" />
-        <entry key="ENGLISH" value="68" />
+        <entry key="CHINESE" value="71" />
+        <entry key="ENGLISH" value="71" />
         <entry key="DANISH" value="1" />
         <entry key="LATIN" value="1" />
       </map>
