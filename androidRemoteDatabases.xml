@@ -1,0 +1,39 @@
+<application>
+  <component name="AndroidRemoteDataBaseManager">
+    <databases>
+      <entry>
+        <key>
+          <db-key>
+            <option name="deviceId" value="SERIAL_NUMBER_56a1481a" />
+            <option name="packageName" value="com.grgbanking.escortapp" />
+            <option name="databaseName" value="EscrotDB" />
+          </db-key>
+        </key>
+        <value>
+          <db-info>
+            <option name="modificationTime" value="1544690490" />
+          </db-info>
+        </value>
+      </entry>
+      <entry>
+        <key>
+          <db-key>
+            <option name="deviceId" value="SERIAL_NUMBER_22a1348b" />
+            <option name="packageName" value="com.grgbanking.escortapp" />
+            <option name="databaseName" value="EscrotDB" />
+          </db-key>
+        </key>
+        <value>
+          <db-info>
+            <option name="modificationTime" value="1544755304" />
+            <option name="referringProjects">
+              <set>
+                <option value="E:/Workspace/Android/mep_zs_cap" />
+              </set>
+            </option>
+          </db-info>
+        </value>
+      </entry>
+    </databases>
+  </component>
+</application>
