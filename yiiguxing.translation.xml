@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <histories>
       <item value="Network anomalies, please try again later！" />
+      <item value="bundled" />
       <item value="tools" />
       <item value="接口" />
       <item value="返回信息异常" />
@@ -50,7 +51,6 @@
       <item value="leave" />
       <item value="离开" />
       <item value="exclusions" />
-      <item value="服务" />
     </histories>
     <option name="languageScores">
       <map>
