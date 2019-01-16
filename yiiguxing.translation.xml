@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="language" />
+      <item value="languge" />
       <item value="Network anomalies, please try again later！" />
       <item value="tools" />
       <item value="接口" />
@@ -49,8 +51,6 @@
       <item value="开发" />
       <item value="leave" />
       <item value="离开" />
-      <item value="exclusions" />
-      <item value="服务" />
     </histories>
     <option name="languageScores">
       <map>
