@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="unbind" />
+      <item value="bind" />
+      <item value="解绑" />
+      <item value="绑住" />
+      <item value="绑定" />
       <item value="language" />
       <item value="languge" />
       <item value="Network anomalies, please try again later！" />
@@ -46,16 +51,11 @@
       <item value="基础" />
       <item value="进阶" />
       <item value="add Default Specification Entries" />
-      <item value="add Default Implementation Entries" />
-      <item value="develop" />
-      <item value="开发" />
-      <item value="leave" />
-      <item value="离开" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="74" />
-        <entry key="ENGLISH" value="74" />
+        <entry key="CHINESE" value="76" />
+        <entry key="ENGLISH" value="76" />
         <entry key="DANISH" value="1" />
         <entry key="LATIN" value="1" />
       </map>
