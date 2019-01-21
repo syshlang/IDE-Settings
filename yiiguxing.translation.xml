@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="无效" />
+      <item value="wrong" />
+      <item value="用户名或密码错误" />
+      <item value="记住密码" />
+      <item value="请输入登录密码" />
+      <item value="请输入用户名" />
       <item value="编码" />
       <item value="TICKET GRANTING TICKET NOT CREATED" />
       <item value="unbind" />
@@ -45,17 +51,11 @@
       <item value="portrait" />
       <item value="screen Orientation" />
       <item value="This provides a graphical representation of Gradle projects and tasks and allows execution of Gradle tasks directly within Idea. Frequently-used tasks can be added to the Favorites tab for quicker access. Output is shown in a separate panel allowing the main UI to be vertical and the output to be horizontal. This is the same UI as the UI embedded in Gradle itself. Note: you can assign keyboard shortcuts within Idea to re-execute the last gradle command and to execute gradle favorites. To do so, go to Idea's settings -&gt; Keymap and select Other. In this list find commands prefixed with &quot;Gradle: &quot;. The favorites are keyed off of the display name so it can work across projects as long as their name is the same." />
-      <item value="Retention" />
-      <item value="Program type already present: org.apache.commons.codec.Decoder" />
-      <item value="baby" />
-      <item value="男孩" />
-      <item value="入门基础" />
-      <item value="基础" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="77" />
-        <entry key="ENGLISH" value="77" />
+        <entry key="CHINESE" value="83" />
+        <entry key="ENGLISH" value="83" />
         <entry key="DANISH" value="1" />
         <entry key="LATIN" value="1" />
       </map>
