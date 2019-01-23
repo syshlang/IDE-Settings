@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="轨迹" />
       <item value="browse" />
       <item value="无效" />
       <item value="wrong" />
@@ -50,11 +51,10 @@
       <item value="interval Millis" />
       <item value="trigger At Millis" />
       <item value="portrait" />
-      <item value="screen Orientation" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="83" />
+        <entry key="CHINESE" value="84" />
         <entry key="ENGLISH" value="84" />
         <entry key="DANISH" value="1" />
         <entry key="LATIN" value="1" />
