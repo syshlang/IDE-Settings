@@ -2,11 +2,6 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="klib" type="ARCHIVE" />
-      <mapping pattern="##批量获取单个页面元素" type="PLAIN_TEXT" />
-      <mapping pattern=".keep" type="PLAIN_TEXT" />
-      <mapping pattern="sequences.sql" type="PLAIN_TEXT" />
-      <mapping ext="lnk" type="PLAIN_TEXT" />
-      <mapping ext="do" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
