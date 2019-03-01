@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Access denied; you need (at least one of) the SUPER privilege(s) for this operation" />
       <item value="文章末尾添加“本文结束”标记" />
       <item value="ip  is ok,but port" />
       <item value="我们换个端口试下" />
@@ -15,7 +16,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="6" />
-        <entry key="ENGLISH" value="6" />
+        <entry key="ENGLISH" value="7" />
       </map>
     </option>
   </component>
