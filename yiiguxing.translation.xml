@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="指定" />
+      <item value="指定区域" />
+      <item value="指定范围" />
+      <item value="特定范围" />
       <item value="客户端" />
       <item value="server" />
       <item value="指静脉" />
@@ -19,8 +23,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="8" />
-        <entry key="ENGLISH" value="9" />
+        <entry key="CHINESE" value="12" />
+        <entry key="ENGLISH" value="12" />
       </map>
     </option>
   </component>
