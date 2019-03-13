@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Hex" />
       <item value="地址" />
       <item value="指定" />
       <item value="指定区域" />
@@ -25,7 +26,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="13" />
-        <entry key="ENGLISH" value="13" />
+        <entry key="ENGLISH" value="14" />
       </map>
     </option>
   </component>
