@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="动态" />
       <item value="hook" />
       <item value="/role/update" />
       <item value="error performing isolated work" />
@@ -29,7 +30,7 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="18" />
+        <entry key="CHINESE" value="19" />
         <entry key="ENGLISH" value="19" />
       </map>
     </option>
