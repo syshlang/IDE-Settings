@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Async" />
       <item value="执行目标" />
       <item value="tx Isolation Level Serializable" />
       <item value="TRACE" />
@@ -38,7 +39,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="24" />
-        <entry key="ENGLISH" value="24" />
+        <entry key="ENGLISH" value="25" />
       </map>
     </option>
   </component>
