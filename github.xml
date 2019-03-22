@@ -1,0 +1,7 @@
+<application>
+  <component name="GithubAccounts">
+    <account id="22a9d9bd-ed7d-40e2-8913-cb0b39cd86e5" name="syshlang">
+      <server host="github.com" />
+    </account>
+  </component>
+</application>
