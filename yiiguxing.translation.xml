@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="执行状态" />
+      <item value="详情" />
       <item value="at once" />
       <item value="straightway" />
       <item value="立即" />
@@ -49,13 +51,11 @@
       <item value="特定范围" />
       <item value="客户端" />
       <item value="server" />
-      <item value="指静脉" />
-      <item value="Vein" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="49" />
-        <entry key="ENGLISH" value="50" />
+        <entry key="CHINESE" value="51" />
+        <entry key="ENGLISH" value="51" />
       </map>
     </option>
   </component>
