@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Persist Job Data After Execution" />
       <item value="执行状态" />
       <item value="详情" />
       <item value="at once" />
@@ -33,7 +34,6 @@
       <item value="Async" />
       <item value="Disallow Concurrent Execution" />
       <item value="Concurrent" />
-      <item value="Persist Job Data After Execution" />
       <item value="执行目标" />
       <item value="tx Isolation Level Serializable" />
       <item value="TRACE" />
@@ -55,7 +55,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="51" />
-        <entry key="ENGLISH" value="51" />
+        <entry key="ENGLISH" value="52" />
       </map>
     </option>
   </component>
