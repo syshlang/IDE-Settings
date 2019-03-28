@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="period" />
+      <item value="周期" />
       <item value="tip Span" />
       <item value="重新录入" />
       <item value="查看日志" />
@@ -49,14 +51,15 @@
       <item value="动态" />
       <item value="hook" />
       <item value="/role/update" />
-      <item value="error performing isolated work" />
-      <item value="Access denied; you need (at least one of) the PROCESS privilege(s) for this operation" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="56" />
-        <entry key="ENGLISH" value="56" />
+        <entry key="CHINESE" value="57" />
+        <entry key="ENGLISH" value="58" />
       </map>
     </option>
+  </component>
+  <component name="Settings">
+    <option name="ignoreRegExp" value="" />
   </component>
 </application>
