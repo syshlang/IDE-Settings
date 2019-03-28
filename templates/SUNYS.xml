@@ -1,0 +1,10 @@
+<templateSet group="SUNYS">
+  <template name="ccmt" value="/**&#10;* @Description:    &#10;* @Author:         sunys&#10;* @CreateDate:     $DATE$ $TIME$&#10;* @UpdateUser:     &#10;* @UpdateDate:     $DATE$ $TIME$&#10;* @UpdateRemark:   &#10;* @Version:        1.0&#10;*/" description="sunys" toReformat="false" toShortenFQNames="true">
+    <variable name="DATE" expression="date()" defaultValue="" alwaysStopAt="true" />
+    <variable name="TIME" expression="time()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+</templateSet>
