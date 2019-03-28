@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="时间段" />
       <item value="周六" />
       <item value="周五" />
       <item value="周四" />
@@ -50,12 +51,11 @@
       <item value="前缀" />
       <item value="Illegal Access Exception" />
       <item value="Async" />
-      <item value="Disallow Concurrent Execution" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="66" />
-        <entry key="ENGLISH" value="66" />
+        <entry key="CHINESE" value="67" />
+        <entry key="ENGLISH" value="67" />
       </map>
     </option>
   </component>
