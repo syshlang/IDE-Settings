@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="postcheck" />
       <item value="rows" />
       <item value="审核历程" />
       <item value="draggable" />
@@ -50,12 +51,12 @@
       <item value="durability" />
       <item value="exist" />
       <item value="存在" />
-      <item value="PROCEED" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="83" />
+        <entry key="CHINESE" value="84" />
         <entry key="ENGLISH" value="84" />
+        <entry key="GERMAN" value="1" />
       </map>
     </option>
   </component>
