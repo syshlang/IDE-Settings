@@ -1,6 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="后台服务" />
+      <item value="客户端服务" />
+      <item value="助手服务" />
+      <item value="assistant" />
+      <item value="ass" />
+      <item value="as" />
+      <item value="aide" />
+      <item value="助手" />
       <item value="已存在" />
       <item value="验证" />
       <item value="校验" />
@@ -43,19 +51,11 @@
       <item value="浏览" />
       <item value="forever" />
       <item value="永久" />
-      <item value="一次" />
-      <item value="Policy" />
-      <item value="Persist Job Data After Execution" />
-      <item value="执行状态" />
-      <item value="at once" />
-      <item value="straightway" />
-      <item value="立即" />
-      <item value="acquisition" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="85" />
-        <entry key="ENGLISH" value="85" />
+        <entry key="CHINESE" value="86" />
+        <entry key="ENGLISH" value="87" />
         <entry key="GERMAN" value="1" />
       </map>
     </option>
