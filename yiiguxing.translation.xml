@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="搜集" />
+      <item value="上传" />
       <item value="Component" />
       <item value="配置" />
       <item value="是否使用" />
@@ -49,8 +51,6 @@
       <item value="周一" />
       <item value="周日" />
       <item value="星期" />
-      <item value="period" />
-      <item value="周期" />
     </histories>
     <option name="languageScores">
       <map>
