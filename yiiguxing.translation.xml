@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Comparable" />
       <item value="验证" />
       <item value="校验" />
       <item value="Processor" />
@@ -50,12 +51,11 @@
       <item value="周三" />
       <item value="周二" />
       <item value="周一" />
-      <item value="周日" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="92" />
-        <entry key="ENGLISH" value="93" />
+        <entry key="CHINESE" value="93" />
+        <entry key="ENGLISH" value="94" />
         <entry key="GERMAN" value="1" />
       </map>
     </option>
