@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="验证" />
+      <item value="校验" />
       <item value="Processor" />
       <item value="搜集" />
       <item value="上传" />
@@ -19,8 +21,6 @@
       <item value="aide" />
       <item value="助手" />
       <item value="已存在" />
-      <item value="验证" />
-      <item value="校验" />
       <item value="校验器" />
       <item value="postcheck" />
       <item value="rows" />
