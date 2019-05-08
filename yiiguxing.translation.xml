@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="处理" />
+      <item value="处理结果" />
       <item value="方式" />
       <item value="操作方式" />
       <item value="开锁方式 " />
@@ -49,13 +51,11 @@
       <item value="时间段" />
       <item value="执行周期" />
       <item value="计划编号" />
-      <item value="detail" />
-      <item value="详情" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="101" />
-        <entry key="ENGLISH" value="101" />
+        <entry key="CHINESE" value="103" />
+        <entry key="ENGLISH" value="103" />
         <entry key="GERMAN" value="1" />
       </map>
     </option>
