@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="方式" />
+      <item value="操作方式" />
+      <item value="开锁方式 " />
       <item value="后台" />
       <item value="无效" />
       <item value="is Clustered" />
@@ -48,14 +51,11 @@
       <item value="计划编号" />
       <item value="detail" />
       <item value="详情" />
-      <item value="包含" />
-      <item value="rtexprvalue" />
-      <item value="排除" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="98" />
-        <entry key="ENGLISH" value="98" />
+        <entry key="CHINESE" value="101" />
+        <entry key="ENGLISH" value="101" />
         <entry key="GERMAN" value="1" />
       </map>
     </option>
