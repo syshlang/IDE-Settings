@@ -22,8 +22,12 @@
           <option name="url" value="https://github.com/smartboot/smart-socket.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitee.com/ding_jj/dp-sequence.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="E:\Workspace\github" />
+    <option name="cloneParentDir" value="E:\Workspace\gitee" />
   </component>
 </application>

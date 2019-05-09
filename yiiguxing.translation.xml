@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="sequence" />
       <item value="处理" />
       <item value="处理结果" />
       <item value="方式" />
@@ -50,7 +51,6 @@
       <item value="计划状态" />
       <item value="时间段" />
       <item value="执行周期" />
-      <item value="计划编号" />
     </histories>
     <option name="languageScores">
       <map>
