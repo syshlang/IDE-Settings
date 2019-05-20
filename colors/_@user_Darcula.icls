@@ -3,12 +3,12 @@
     <property name="created">2019-01-25T08:44:02</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2019.1.0.0</property>
-    <property name="modified">2019-01-25T09:59:18</property>
+    <property name="modified">2019-05-20T14:00:28</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <colors>
     <option name="FILESTATUS_ADDED" value="fd000" />
-    <option name="FILESTATUS_COPIED" value="fd000" />
+    <option name="FILESTATUS_COPIED" value="a7700" />
     <option name="FILESTATUS_DELETED" value="616161" />
     <option name="FILESTATUS_HIJACKED" value="b28c00" />
     <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="b752dd" />
@@ -25,7 +25,7 @@
     <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="3987df" />
     <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="8aa4c8" />
     <option name="FILESTATUS_OBSOLETE" value="7c7c00" />
-    <option name="FILESTATUS_RENAMED" value="3a8484" />
+    <option name="FILESTATUS_RENAMED" value="7c7c" />
     <option name="FILESTATUS_SWITCHED" value="8978f" />
     <option name="FILESTATUS_UNKNOWN" value="c13d00" />
     <option name="FILESTATUS_addedOutside" value="eaa00" />
