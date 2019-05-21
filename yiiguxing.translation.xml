@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="个人码是身份标识，失效前可重复使用，请谨慎保管，勿向他人透露" />
+      <item value="原个人码已失效" />
+      <item value="有效期至" />
+      <item value="您的最新个人码为" />
       <item value="cause" />
       <item value="原因" />
       <item value="issue" />
@@ -47,15 +51,11 @@
       <item value="assistant" />
       <item value="ass" />
       <item value="as" />
-      <item value="aide" />
-      <item value="助手" />
-      <item value="已存在" />
-      <item value="校验器" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="114" />
-        <entry key="ENGLISH" value="115" />
+        <entry key="CHINESE" value="118" />
+        <entry key="ENGLISH" value="118" />
         <entry key="GERMAN" value="1" />
       </map>
     </option>
