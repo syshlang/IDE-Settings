@@ -1,6 +1,9 @@
 <application>
   <component name="MaterialThemeConfig">
+    <option name="hideFileIcons" value="true" />
+    <option name="isCompactTables" value="true" />
     <option name="isContrastMode" value="true" />
+    <option name="isHighContrast" value="true" />
     <option name="isPsiIcons" value="false" />
     <option name="isWizardShown" value="true" />
     <option name="overrideAccentColor" value="true" />
