@@ -1,62 +1,62 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="ligatures" />
-      <item value="不匹配" />
-      <item value="/* * Licensed to Jasig under one or more contributor license * agreements. See the NOTICE file distributed with this work * for additional information regarding copyright ownership. * Jasig licenses this file to you under the Apache License, * Version 2.0 (the &quot;License&quot;); you may not use this file * except in compliance with the License. You may obtain a * copy of the License at the following location: * * http://www.apache.org/licenses/LICENSE-2.0 * * Unless required by applicable law or agreed to in writing, * software distributed under the License is distributed on an * &quot;AS IS&quot; BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY * KIND, either express or implied. See the License for the * specific language governing permissions and limitations * under the License." />
-      <item value="Project 'com.grgbanking:smscat-other:1.0-SNAPSHOT' is duplicated in the reactor" />
-      <item value="The string constructed by replacing each matching subsequence * by the replacement string, substituting captured subsequences * as needed" />
-      <item value="basket" />
-      <item value="overstock" />
-      <item value="积压" />
-      <item value="密码主机正忙" />
-      <item value="个人码是身份标识，失效前可重复使用，请谨慎保管，勿向他人透露" />
-      <item value="原个人码已失效" />
-      <item value="有效期至" />
-      <item value="您的最新个人码为" />
-      <item value="cause" />
-      <item value="原因" />
-      <item value="issue" />
-      <item value="问题" />
-      <item value="execte User Code Overdue" />
+      <item value="Duplicate entry '1' for key 'PRIMARY'" />
+      <item value="验证指纹不通过" />
+      <item value="验证比对不通过" />
+      <item value="比对指纹不通过" />
+      <item value="指纹比对不通过" />
+      <item value="Synthetic" />
+      <item value="合成指纹数据失败" />
+      <item value="采集指纹数据失败" />
+      <item value="等待移开手指超时" />
+      <item value="Waiting for putting finger timeout" />
+      <item value="等待手指输入超时" />
+      <item value="等待手指放入超时" />
+      <item value="等待放手指超时" />
+      <item value="等待放入手指" />
+      <item value="等待放入手指超时" />
+      <item value="打开设备失败" />
+      <item value="拿开" />
+      <item value="移开" />
+      <item value="take away" />
+      <item value="采集指纹信息失败" />
+      <item value="初始化指纹仪失败" />
+      <item value="采集指静脉" />
+      <item value="转换" />
+      <item value="初始化指纹设备失败" />
       <item value="失败" />
-      <item value="登记授权" />
-      <item value="模板" />
-      <item value="短息" />
-      <item value="标志" />
-      <item value="该手机号已登记！" />
-      <item value="登录名不能为空！" />
-      <item value="不吻合" />
-      <item value="确定生成今日任务？" />
-      <item value="重置" />
-      <item value="Business" />
-      <item value="业务流水号" />
-      <item value="sequence" />
-      <item value="处理" />
-      <item value="处理结果" />
-      <item value="方式" />
-      <item value="操作方式" />
-      <item value="开锁方式 " />
-      <item value="后台" />
-      <item value="无效" />
-      <item value="is Clustered" />
-      <item value="与主机通信时发生异常" />
-      <item value="电量" />
-      <item value="Comparable" />
-      <item value="验证" />
-      <item value="校验" />
-      <item value="Processor" />
-      <item value="搜集" />
-      <item value="上传" />
-      <item value="Component" />
-      <item value="配置" />
-      <item value="是否使用" />
+      <item value="初始化指纹设备成功" />
+      <item value="instrument" />
+      <item value="venous" />
+      <item value="No venous instrument detected" />
+      <item value="Lorem ipsum dolor sit amet" />
+      <item value="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi non lorem porttitor neque feugiat blandit. Ut vitae ipsum eget quam lacinia accumsan. Etiam sed turpis ac ipsum condimentum fringilla. Maecenas magna. Proin dapibus sapien vel ante. Aliquam erat volutpat. Pellentesque sagittis ligula eget metus. Vestibulum commodo. Ut rhoncus gravida arcu." />
+      <item value="批量删除锁具指静脉" />
+      <item value="批量删除指" />
+      <item value="批量删除指静脉" />
+      <item value="批量删除" />
+      <item value="锁具批量删除指静脉" />
+      <item value="Print" />
+      <item value="Orphaned message" />
+      <item value="设备连接失败" />
+      <item value="请使用Windows操作系统" />
+      <item value="当前语言环境" />
+      <item value="数据异常" />
+      <item value="未检测到指静脉仪" />
+      <item value="写入用户信息失败" />
+      <item value="未获取到指静脉信息" />
+      <item value="接受数据包异常" />
+      <item value="请拿开手指" />
+      <item value="请放入手指" />
+      <item value="内存不足" />
+      <item value="无静脉数据" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="124" />
-        <entry key="ENGLISH" value="125" />
-        <entry key="GERMAN" value="1" />
+        <entry key="CHINESE" value="119" />
+        <entry key="ENGLISH" value="120" />
+        <entry key="SPANISH" value="1" />
       </map>
     </option>
   </component>

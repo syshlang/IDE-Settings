@@ -16,7 +16,7 @@
         <entry key="firstLevelHorizontalInset" value="48" />
         <entry key="firstLevelTextColor@" value="-16777216" />
         <entry key="firstLevelVerticalInset" value="32" />
-        <entry key="font@" value="Dialog:1:18" />
+        <entry key="font@" value="Serif:1:18" />
         <entry key="gridColor@" value="-12364185" />
         <entry key="gridStep" value="32" />
         <entry key="horizontalBlockGap" value="5" />
@@ -28,7 +28,7 @@
         <entry key="otherLevelVerticalInset" value="16" />
         <entry key="paperColor@" value="-10388588" />
         <entry key="paperMargins" value="20" />
-        <entry key="renderQuality@" value="DEFAULT" />
+        <entry key="renderQuality@" value="QUALITY" />
         <entry key="rootBackgroundColor@" value="-16573903" />
         <entry key="rootTextColor@" value="-1" />
         <entry key="scale" value="4607182418800017408" />
